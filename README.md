@@ -238,6 +238,8 @@ When you are not familiar with the rules of scope, it will be a common source of
 
 In JavaScript, we use scope to encapsulate data and hide it from other parts of our application. The most common way to create a new scope is with a function. We can also create scope using a block. By using scope, we can keep our code organized, manageable, avoid variable name collision, and keep the global namespace clean.
 
+![Cap](http://24.media.tumblr.com/95c072f1d694c3b132614ac3dc40fdcc/tumblr_ms6qvrVCJm1rdnvweo1_500.gif)
+
 ## Resources
   - [Coupling](https://en.wikipedia.org/wiki/Coupling_%28computer_programming%29)
   - [MDN - Break](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/break)
